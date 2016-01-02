@@ -21,7 +21,8 @@ Generate an RSS feed for media files stored in Azure Storage.
  - Upload any media files (`.mp3` or `.m4a`) to your specified
    container with *Storage Explorer*.
  - Run the included Powershell script like the following:
-     > .\Generate-PodcastFeed.ps1 -StorageAccount myaccountname -Container mycontainername
+
+    > .\Generate-PodcastFeed.ps1 -StorageAccount myaccountname -Container mycontainername
 
 ## Potential future enhancements:
 
